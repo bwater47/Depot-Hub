@@ -61,14 +61,12 @@ The Depot Hub is for managing listings on an e-commerce platform, allowing emplo
 
 - <strong>Depot Hub Link</strong>
 
-- [Website]()
+- [Website](https://depothub.netlify.app/)
 
 - <strong>Depot Hub Screenshots</strong>
 
-- ![Screenshot]()
-- ![Screenshot]()
-- ![Screenshot]()
-- ![Screenshot]()
+- ![Screenshot](./client/src/assets/images/Home.png)
+- ![Screenshot](./client/src/assets/images/Products.png)
 
 ## Support
 
